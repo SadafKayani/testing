@@ -7,7 +7,7 @@ export default function App() {
   console.log("Welcome!!!");
   return (
     <View style={styles.container}>
-      <Text>Welcome to my first React Native App!</Text>
+      <Text>Welcome to my React Native App!</Text>
       <Button title="My First Button" icon={{ name: "code"}}/>
       <StatusBar style="auto" />
     </View>
